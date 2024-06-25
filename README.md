@@ -1,0 +1,2 @@
+This application was developed to be used with betting software that may be API blocked, a (caveman) workaround I discovered was simply creating an image reader that will output all the props provided via screenshot.
+The application is also to filter output results based on a specific betting criteria: A player with a consistency of hitting a prop 4 out of 5 (or better) of their last attempts AND 8 out of 10 (or better), of their last attempts.
